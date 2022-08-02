@@ -1,0 +1,15 @@
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\bin\Debug\net6.0\c101_proje_dairecizme.exe
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\bin\Debug\net6.0\c101_proje_dairecizme.deps.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\bin\Debug\net6.0\c101_proje_dairecizme.runtimeconfig.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\bin\Debug\net6.0\c101_proje_dairecizme.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\bin\Debug\net6.0\c101_proje_dairecizme.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\obj\Debug\net6.0\c101_proje_dairecizme.csproj.AssemblyReference.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\obj\Debug\net6.0\c101_proje_dairecizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\obj\Debug\net6.0\c101_proje_dairecizme.AssemblyInfoInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\obj\Debug\net6.0\c101_proje_dairecizme.AssemblyInfo.cs
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\obj\Debug\net6.0\c101_proje_dairecizme.csproj.CoreCompileInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\obj\Debug\net6.0\c101_proje_dairecizme.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\obj\Debug\net6.0\refint\c101_proje_dairecizme.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\obj\Debug\net6.0\c101_proje_dairecizme.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\obj\Debug\net6.0\c101_proje_dairecizme.genruntimeconfig.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_dairecizme\obj\Debug\net6.0\ref\c101_proje_dairecizme.dll
